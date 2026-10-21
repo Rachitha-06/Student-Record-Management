@@ -1,0 +1,54 @@
+# Compiled executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Compiled libraries
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# StudentVault generated data and backups
+students.dat
+students.tmp
+students.bak
+
+# Build directories
+build/
+dist/
+bin/
+obj/
+
+# Debugging and crash files
+*.dSYM/
+*.stackdump
+core
+core.*
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment variables and local secrets
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
