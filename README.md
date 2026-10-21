@@ -1,4 +1,4 @@
-# student-record-management
+# Student-Record-Management
 # StudentVault
 
 StudentVault is a console-based C application for managing student profiles, semester records, attendance, academic trends, risk indicators, reports, and persistent local data.
